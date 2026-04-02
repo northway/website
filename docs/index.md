@@ -22,7 +22,6 @@ Hi! This is my personal website that I've created for myself. It's a collection 
 | [Ansible](https://docs.ansible.com)       | :lucide-square-check-big: |                           | Ansible Playbooks to manage my infrastructure    |
 | [Proxmox](https://www.proxmox.com/en/)    | :lucide-square-check-big: |                           | Virtual machine and container hypervisor         |
 | [NetBird](https://netbird.io/)            | :lucide-square-check-big: |                           | WireGuard®-based overlay network                 |
-| [Plex](https://watch.plex.tv/)            | :lucide-square-check-big: |                           | Media Server                                     |
 | [Proton](https://proton.me/)              |                           | :lucide-square-check-big: | Email, Storage, VPN                              |
 | [NextDNS](https://nextdns.io/)            |                           | :lucide-square-check-big: | Encrypt all DNS queries                          |
 | [Ubuntu Pro](https://ubuntu.com/pro)      | :lucide-square-check-big: | :lucide-square-check-big: | Expanded Security Maintenance                    |
@@ -30,6 +29,7 @@ Hi! This is my personal website that I've created for myself. It's a collection 
 | [GitHub](https://github.com/)             |                           | :lucide-square-check-big: | Source code storage and GitHub Pages             |
 | [GitLab](https://gitlab.com/)             |                           | :lucide-square-check-big: | Source code storage and CI/CD                    |
 | [Kagi](https://kagi.com)                  |                           | :lucide-square-check-big: | Fast, user-centric and private web search engine |
+| [Pocket ID](https://pocket-id.org)        | :lucide-square-check-big: |                           | Simple OIDC provider with passkey authentication |
 
 ## Book Recommendations
 
